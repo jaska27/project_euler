@@ -1,2 +1,2 @@
-# project_euler
-Project Euler solved problems
+# Project Euler
+Project Euler (https://projecteuler.net/) solutions.
